@@ -167,4 +167,11 @@ body{
 
     }
 
+        .flexboxMain__foto {
+
+        width: 50%;
+        height: auto;
+
+    }
+
 }
