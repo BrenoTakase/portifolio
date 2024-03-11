@@ -145,6 +145,7 @@ body{
     .header__cabecalho {
 
         padding: 8%;
+        gap: 10%;
 
     }
 
